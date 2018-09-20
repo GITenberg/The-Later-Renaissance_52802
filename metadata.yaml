@@ -1,0 +1,32 @@
+_repo: The-Later-Renaissance_52802
+_version: 0.0.1
+creator:
+  author:
+    agent_name: Hannay, David
+    birthdate: 1853
+    deathdate: 1934
+    gutenberg_agent_id: '43936'
+    url: http://www.gutenberg.org/2009/agents/43936
+description: ''
+gutenberg_issued: '2016-08-14'
+gutenberg_type: Text
+identifiers:
+  gutenberg: '52802'
+language: en
+publisher: Project Gutenberg
+rights: Public domain in the USA.
+rights_url: http://creativecommons.org/about/pdm
+subjects:
+- !lcsh 'European literature -- Renaissance, 1450-1600 -- History and criticism'
+- !lcc 'PN'
+- !lcsh 'Spanish literature -- History and criticism'
+- !lcsh 'Renaissance'
+- GITenberg
+tableOfContents: 'The later Renaissance in Spain -- The Spanish learned poets -- The
+  growth and decadence of the Spanish drama -- Forms of the Spanish drama -- Spanish
+  prose romance -- Spain: historians, miscellaneous writers, and the mystics -- Elizabethan
+  poetry -- The earlier dramatists -- The Elizabethan prose-writers -- France. Poetry
+  of the later Renaissance -- French prose-writers of the later sixteenth century
+  -- The later Renaissance in Italy -- Conclusion.'
+title: The Later Renaissance
+url: http://www.gutenberg.org/ebooks/52802
